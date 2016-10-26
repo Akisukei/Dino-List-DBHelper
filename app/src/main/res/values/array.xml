@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dino_names">
+        <item>Brachiosaurus</item>
+        <item>Carnotaurus</item>
+        <item>Giganotosaurus</item>
+        <item>Pentaceratops</item>
+        <item>Parasaurolophus</item>
+        <item>Rajasaurus</item>
+        <item>Styracosaurus</item>
+        <item>Spinosaurus</item>
+        <item>Minmi</item>
+        <item>Deinonychus</item>
+    </string-array>
+
+    <string-array name="dino_info">
+        <item>
+            This drawing shows the possible appearance of Brachiosaurus, a Sauropod dinosaur from
+            the late Jurassic Period (around 150 million years ago). The Brachiosaurus was a herbivore
+            (plant eater) and lived in North America.
+        </item>
+        <item>
+            This CGI drawing shows the possible appearance of Carnotaurus, a dinosaur that lived at
+            the end of the Cretaceous Period (around 66 million years ago). Carnotaurus was a meat
+            eating dinosaur (carnivore) with small arms and fingers that did not move.
+        </item>
+        <item>
+            This CGI drawing shows the possible appearance of Giganotosaurus, a dinosaur from the
+            late Cretaceous Period (around 100 million years ago). Giganotosaurus was a carnivore
+            (meat eater) that was even bigger than the more well known Tyrannosaurus rex. Its name
+            means \'giant southern lizard\'.
+        </item>
+        <item>
+            This drawing shows the possible appearance of Pentaceratops, a dinosaur from the late
+            Cretaceous Period (around 75 million years ago). Pentaceratops (meaning \'five horned face\')
+            is related to the Triceratops (meaning \'three horned face\' and like other Ceratopsid
+            dinosaurs, ate plants. It weighed around 5500 kg (13000 lb) and reached around 8 metres
+            (27 feet) in length.
+        </item>
+        <item>
+            This CGI drawing shows the possible appearance of Parasaurolophus, a dinosaur from the
+            late Cretaceous Period (around 75 million years ago). Parasaurolophus were plant eaters
+            (herbivores) that lived in North America.
+        </item>
+        <item>
+            This CGI drawing shows the possible appearance of Rajasaurus (which interestingly means
+            \'prince\' or \'princely lizard\'), a dinosaur from the late Cretaceous Period (around 70
+            million years ago). Found in India, it featured a unique head crest and measured around
+            8 metres (26 feet) in length.
+        </item>
+        <item>
+            This drawing shows the possible appearance of Styracosaurus, a dinosaur from the late
+            Cretaceous Period (around 75 million years ago). The name Styracosaurus means \'spiked
+            lizard\' and refers to the horns coming from its neck frill as well as the horns on its
+            cheeks and larger horn coming from its nose, which could have been up to 60cm in length.
+            Styracosaurus was a large, bulky dinosaur that ate plants (herbivore).
+        </item>
+        <item>
+            This CGI drawing shows the possible appearance of Spinosaurus, a dinosaur from the
+            Cretaceous Period (around 100 million years ago). With huge spines growing from its back
+            and the biggest size of any meat eating (carnivorous) dinosaur, the Spinosaurus must
+            have been one scary looking dinosaur.
+        </item>
+        <item>
+            This drawing shows the possible appearance of Minmi, a small dinosaur from the early
+            Cretaceous Period (around 116 million years ago). Minmi was an armoured dinosaur and
+            like other Ankylosaurs, was a herbivore (plant eater). It was named Minmi after remains
+            were found near the Minmi Crossing in Australia.
+        </item>
+        <item>
+            This CGI drawing shows the possible appearance of Deinonychus, a dinosaur from the early
+            Cretaceous Period (around 110 million years ago). Deinonychus was from the same family of
+            dinosaurs as the Velociraptor and its name means \'terrible claw\'.
+        </item>
+    </string-array>
+
+</resources>
